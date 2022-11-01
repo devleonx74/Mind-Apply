@@ -1,0 +1,14 @@
+{
+"prefix" : "m?",
+"token" : "",
+"applicationChannel":"",
+
+"QUESTIONS": [
+    "Wie alt bist du?",
+    "Wie lange bist du schon auf Discord?",
+    "Warst du schon mal in einem anderen Clan?",
+    "Was sind deine Stärken?",
+    "Was sind deine Schwächen?",
+    "Warum sollten wir genau dich annehmen?"
+]
+}
